@@ -1,5 +1,7 @@
-# Concentrate-Source-Code
-This repo stores the front-end code for Concentrate chrome ext; this part of Concentrate is responsible for:
+# Concentration Source Code
+> You may also visit https://gist.github.com/Frank17/19ab2d9f77087db393b5ba9b24a4250f to view MAJORITY of the source code (no download is needed to that repo)
+
+This repo stores the COMPLETE front-end code for Concentrate chrome ext (in `demo.ext.zip` file); this part of Concentrate is responsible for:
 1. Scrape down the textual web content
 2. Pass the content to the backend
 3. Wait for the backend to return a flag that indicates whether to block the current website
